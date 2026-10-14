@@ -2,7 +2,6 @@
 
 SQL + Power BI analysis of how coupons affect profitability in a 1,00,000-order quick-commerce dataset.
 
-![Dashboard](dashboard.png)
 
 ## Problem
 Coupons bring in orders, but do they bring in profit? This project measures contribution per order and tests whether a discount cap would help.
@@ -29,5 +28,5 @@ Cap each discount at 0.5x the product margin. In simulation, total contribution 
 
 ## Files
 - `analysis.sql`: all queries
-- `coupon_dashboard.pbix`: interactive dashboard
+- `Cap Ana.pbix`: interactive dashboard
 - `orders.csv`: dataset
